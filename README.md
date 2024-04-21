@@ -16,7 +16,7 @@ Ensure you have:
   ```
 3. Navigate to the project directory:
  ```bash
-  cd aws-policy-project
+  cd AWS_POLICY
   ```
 
 ## Running the Application
